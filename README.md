@@ -44,8 +44,7 @@ TWITTER_ACCESS_TOKEN_SECRET=your_twitter_access_token_secret
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/instagram-to-twitter.git
-   cd instagram-to-twitter
+   git clone https://github.com/Shanto57575/insta-x-bridge.git
    ```
 
 2. Install the required dependencies:
